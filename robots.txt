@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josemcc.github.io/hoop-fever/sitemap.xml
